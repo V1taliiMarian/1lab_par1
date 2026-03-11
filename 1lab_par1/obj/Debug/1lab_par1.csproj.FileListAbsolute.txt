@@ -1,0 +1,7 @@
+D:\Parallel computing and distributed systems\1lab_par1\bin\Debug\1lab_par1.exe.config
+D:\Parallel computing and distributed systems\1lab_par1\bin\Debug\1lab_par1.exe
+D:\Parallel computing and distributed systems\1lab_par1\bin\Debug\1lab_par1.pdb
+D:\Parallel computing and distributed systems\1lab_par1\obj\Debug\1lab_par1.csproj.AssemblyReference.cache
+D:\Parallel computing and distributed systems\1lab_par1\obj\Debug\1lab_par1.csproj.CoreCompileInputs.cache
+D:\Parallel computing and distributed systems\1lab_par1\obj\Debug\1lab_par1.exe
+D:\Parallel computing and distributed systems\1lab_par1\obj\Debug\1lab_par1.pdb
